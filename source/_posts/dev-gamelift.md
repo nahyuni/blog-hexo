@@ -12,7 +12,7 @@ permalink: ""
 0.1.
 0.2.
 0.3.
-
+0.4
 
 1. SDK 다운(https://ap-northeast-2.console.aws.amazon.com/gamelift/home?region=ap-northeast-2#/)
 2. cmake 설치.(yum install cmake)
