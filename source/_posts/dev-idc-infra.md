@@ -1,5 +1,5 @@
 ---
-title: [IDC 인프라]
+title: [고가용인프라]
 date: 2020-09-24 14:30:19
 tags: [infra]
 categories: 
