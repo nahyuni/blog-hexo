@@ -9,6 +9,7 @@ comments: false
 3. 설계, 개발, 운영 전체적인 개발 인프라 구축.
 4. 현재 마이크로 서비스 프레임워크 구축 하고 있음.
 5. 블록체인 회사에서 근무중.
+6. 테스트.
 
 - 언어 : nodejs, golang, php, c, c++
 - DB : mariadb, mysql, mongoDB
