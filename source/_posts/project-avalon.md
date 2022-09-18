@@ -7,7 +7,7 @@ categories:
 thumbnail: ""
 permalink: ""
 ---
- 0. github 소스
+ 0. ~~ github 소스
  1. avalon-nano 크롬 소스를 분석한다.
  2. 크롬 소스에서 hid SDK(chrome.hid.getDevices)를 nodejs 인 require("node-hid") 로
     컨버팅 한다.(nodejs)
@@ -87,6 +87,7 @@ function safe_add (x, y) {
 	var msw = (x >> 16) + (y >> 16) + (lsw >> 16);
 	return (msw << 16) | (lsw & 0xFFFF);
 }	
+TEST
 ```
 
     
