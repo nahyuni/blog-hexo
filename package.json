@@ -27,6 +27,6 @@
     "hexo-renderer-stylus": "^1.1.0",
     "hexo-server": "^1.0.0",
     "jquery": "^3.4.1",
-    "jsdom": "^16.0.1"
+    "jsdom": "^16.5.0"
   }
 }
